@@ -3,8 +3,6 @@
 <!--
 **szymon-gawel/szymon-gawel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on .NET projects, that will give me necessary knowledge to increase my programming skills
 - 🌱 I’m currently learning Advanced Web Development, app development in WPF and Xamarin
 
