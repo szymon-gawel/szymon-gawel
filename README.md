@@ -13,8 +13,8 @@
 <h3 align="center">Contact</h3>
 <p align="center">Email: szymon.gawel@op.pl</p>  
 <p align="center">
-  <a href="https://www.linkedin.com/in/szymon-gawel/"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_linkedin_linked_in-32.png" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/szymon.gawel.7/"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_facebook-32.png" alt="Facebook"/></a>
+  <a href="https://www.linkedin.com/in/szymon-gawel/" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_linkedin_linked_in-32.png" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/szymon.gawel.7/" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_facebook-32.png" alt="Facebook"/></a>
 </p>
 
 
