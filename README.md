@@ -3,7 +3,7 @@
 <h3 align="center">About Me</h3>
 <p align="center">
   My name is Szymon and I'm from Warsaw, Poland </br>
-  I finished the best IT school in Poland and now I'm studying IT at Polish Papanese Academy of Information Technology
+  I finished the best IT school in Poland and now I'm studying IT at Polish Japanese Academy of Information Technology
 </p>
 <h3 align="center">My skills</h3>
 <p align="center">
