@@ -7,7 +7,7 @@
 </p>
 <h3 align="center">My skills</h3>
 <p align="center">
-  Creating apps and websites in .NET</br>
+  Creating apps and websites in .NET and Java</br>
   Creating websites using HTML, CSS (SCSS) and JavaScript
 </p>
 <h3 align="center">Contact</h3>
