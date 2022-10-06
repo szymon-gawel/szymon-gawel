@@ -7,9 +7,8 @@
 </p>
 <h3 align="center">My skills</h3>
 <p align="center">
-  Creating mobile apps for android in Java</br>
-  Creating websites in ASP.NET MVC</br>
-  Creating websites using HTML, CSS (SCSS) and JavaScript
+  Creating mobile apps in Xamarin</br>
+  Creating basic websites in ASP.NET MVC</br>
 </p>
 <h3 align="center">Contact</h3>
 <p align="center">Email: szymon.gawel@op.pl</p>  
