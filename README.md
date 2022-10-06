@@ -1,5 +1,5 @@
 <h1 align="center">Szymon Gaweł</h1>
-<h2 align="center">Java and .NET Developer</h2>
+<h2 align="center">.NET Developer</h2>
 <h3 align="center">About Me</h3>
 <p align="center">
   My name is Szymon and I'm from Warsaw, Poland </br>
